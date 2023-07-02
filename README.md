@@ -1,4 +1,4 @@
-# Standart Sapma Hesaplama Projesi
+# Standart Sapma Hesaplama
 
 Bu proje, bir veri setinin standart sapmasını hesaplamak için Java programlama dilinde paralel hesaplama yöntemlerini kullanır.
 
